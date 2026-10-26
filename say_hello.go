@@ -1,5 +1,7 @@
 package go_learning_project
 
-func SayHello() {
-	fmt.Println("Hello World")
+import "fmt"
+
+func SayHello(helo string) {
+	fmt.Println(helo)
 }
