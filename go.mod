@@ -1,3 +1,3 @@
-module github.com/icakces/go-learning-project.git
+module github.com/icakces/go-learning-project
 
 go 1.26.8
